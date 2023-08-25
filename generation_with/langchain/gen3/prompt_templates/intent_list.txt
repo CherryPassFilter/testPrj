@@ -1,0 +1,2 @@
+drug: side effects, product name, ingredients, and contraindications.
+questions: Specific questions about medications, diseases, and health conditions.

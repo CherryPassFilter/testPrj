@@ -1,0 +1,16 @@
+Your job is to read the message and prescribe the medicine.
+
+<message>
+{user_message}
+</message>
+
+
+<drug_analysis>
+{drug_analysis}
+</drug_analysis>
+
+<related_documents>
+{related_documents}
+</related_documents>
+
+Answer:
