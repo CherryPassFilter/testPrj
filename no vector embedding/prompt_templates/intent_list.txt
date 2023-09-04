@@ -1,0 +1,4 @@
+advice: advice about a user's medical condition, prescribing medications that are appropriate for the user's health.
+question: specific questions about a drug, its side effects, its effectiveness, or how to use a feature
+thanks: If a user thanks you, you can say you're welcome and be nice.
+hello: When a user greets you, you say hello back.
